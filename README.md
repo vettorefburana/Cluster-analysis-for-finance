@@ -1,6 +1,10 @@
 # Cluster analysis for building diversified portfolios 
 
-Using different partitional and hierarchical clustering algorithms, the returns of approximately 200 randomly selected stocks are divided into clusters based on return correlation.
+The returns of approximately 200 randomly selected stocks are divided into clusters based on return correlation, using the following partitional and hierarchical clustering algorithms:
+
+* K-means 
+* Bounded K-means
+* Hierarchical risk parity
 
 The goodness of each clustering algorithm is evaluated on the basis of the infra- and intra-cluster correlation.
 
