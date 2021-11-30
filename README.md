@@ -1,5 +1,8 @@
 # Cluster analysis for building diversified portfolios 
 
+Objectives: 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The returns of approximately 200 randomly selected stocks are divided into clusters based on return correlation, using the following partitional and hierarchical clustering algorithms:
 
 * K-means 
@@ -16,8 +19,13 @@ For each clustering algorithm, the results of the static and rolling allocations
 
 The out of sample performance of each clustering portfolio is compared with the tangency portfolio and with an equally weighted portfolio. 
 
+Results: 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+* The Bounded K-Means portfolio yields the highest excess-return; 
+* The tangency portfolio has the highest Sharpe ratio
+
 References: 
-----------------------------------------------------------------------------------------------------------------------------------------------------------ù
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * De Prado, M. L. (2016). Building diversified portfolios that outperform out of sample. The Journal of Portfolio Management, 42(4), 59-69.
 * Ganganath, N., Cheng, C. T., & Chi, K. T. (2014). Data clustering with cluster size constraints using a modified k-means algorithm. In 2014 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (pp. 158-161). IEEE.
