@@ -15,3 +15,12 @@ In addition to the static optimization, the optimal portfolio weights are calcul
 For each clustering algorithm, the results of the static and rolling allocations are compared in order to calculate the excess return due to rebalancing the portfolio.
 
 The out of sample performance of each clustering portfolio is compared with the tangency portfolio and with an equally weighted portfolio. 
+
+References: 
+----------------------------------------------------------------------------------------------------------------------------------------------------------ù
+
+* De Prado, M. L. (2016). Building diversified portfolios that outperform out of sample. The Journal of Portfolio Management, 42(4), 59-69.
+* Ganganath, N., Cheng, C. T., & Chi, K. T. (2014). Data clustering with cluster size constraints using a modified k-means algorithm. In 2014 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (pp. 158-161). IEEE.
+* Markowitz H. (1959). Portfolio Selection: Efficient Diversification of Investment. (J. Wiley, New York).
+* Tola, V., Lillo, F., Gallegati, M., & Mantegna, R. N. (2008). Cluster analysis for portfolio optimization. Journal of Economic Dynamics and Control, 32(1), 235-258.
+* https://github.com/hellojinwoo/CA_GMVP
